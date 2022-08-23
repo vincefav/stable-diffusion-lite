@@ -1,1 +1,1 @@
-# stable-diffusion-queuing
+# stable-diffusion-lite
